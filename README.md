@@ -50,3 +50,16 @@
 <img src="https://raw.githubusercontent.com/siyagumber04/siyagumber04/output/snake.svg" alt="Snake animation" />
 
 ###
+
+# 💻 Siya Gumber
+
+## 🚀 About Me
+- 🎓 B.Tech in Computer Science at Arya College, Jaipur
+- 💡 Passionate about coding, problem-solving, and software development
+- 🔍 Always learning and exploring new technologies
+
+## 🛠️ Skills
+- **Programming Languages**: Python, C++
+- **Development Tools**: Git, GitHub, VS Code
+- **Other Skills**: Data Structures & Algorithms, Object-Oriented Programming
+
