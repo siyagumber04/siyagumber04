@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Siya Gumber<br><br>🚀 About Me<br><br>🎓 B.Tech in Computer Science at Arya College, Jaipur<br>💡 Passionate about coding, problem-solving, and software development<br>🔍 Always learning and exploring new technologies<br>🛠️ Skills<br><br>Programming Languages: Python, C++<br>Development Tools: Git, GitHub, VS Code<br>Other Skills: Data Structures & Algorithms, Object-Oriented Programming
+🚀 About Me<br><br>🎓 B.Tech in Computer Science at Arya College, Jaipur<br>💡 Passionate about coding, problem-solving, and software development<br>🔍 Always learning and exploring new technologies<br>🛠️ Skills<br><br>Programming Languages: Python, C++<br>Development Tools: Git, GitHub, VS Code<br>Other Skills: Data Structures & Algorithms, Object-Oriented Programming
 
 
 ## 🌐 Socials:
